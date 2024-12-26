@@ -27,7 +27,7 @@
             <div class="content">
                 <div class="blog-details">
                     <p class="tag">Add to <span> Video </span></p>
-                    <p> December 20, 2024 </p>
+                    <p> December 20, 2019 </p>
                 </div>
                 <div class="about-author">
                     <img src="./author.png" alt="author">
